@@ -1,2 +1,2 @@
 # WPF-Launcher
-It's a C# launcher based on WPF platform, also it's connected with MySQL db.
+This is my old C# launcher on WPF platform, it is also linked to MySQL database.
